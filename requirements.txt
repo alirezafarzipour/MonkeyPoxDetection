@@ -1,0 +1,9 @@
+numpy==1.23.5
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+pandas==2.0.1
+xgboost==1.7.5
+scikit-learn==1.2.2
+mlxtend==0.22.0
+catboost==1.2
+lightgbm==3.3.5
