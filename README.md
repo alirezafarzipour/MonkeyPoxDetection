@@ -2,7 +2,10 @@
 
 This repository contains the code and dataset for the article "Detection of Monkeypox Cases Based on Symptoms Using XGBoost and Shapley Additive Explanations Methods" published in Diagnostics.
 
-**Authors**: Alireza Farzipour, Roya Elmi, Hamid Nasiri
+**Authors**
+- Alireza Farzipour ([LinkedIn](https://www.linkedin.com/in/afrzp))
+- Roya Elmi ([LinkedIn](https://www.linkedin.com/in/royaelmi))
+- Hamid Nasiri ([LinkedIn](https://www.linkedin.com/in/hamid-nasiri-b5555487/))
 
 **Abstract**:
 The monkeypox virus poses a novel public health risk that might quickly escalate into a worldwide epidemic. In this study, we have created a dataset based on the data collected and published by Global Health and used by the World Health Organization (WHO). The dataset contains textual information about the symptoms and the monkeypox disease. We applied gradient boosting methods, such as Extreme Gradient Boosting (XGBoost), CatBoost, and LightGBM, along with other standard machine learning methods such as Support Vector Machine (SVM) and Random Forest, to analyze the data. The goal was to develop a machine learning model that can diagnose monkeypox based on symptoms. XGBoost showed the best performance with an accuracy of 1.0 in reviews. We also used Shapley Additive Explanations (SHAP) to examine and explain the output of the XGBoost model.
@@ -21,6 +24,9 @@ To run the code, follow these steps:
 3. Open `Main.ipynb` using Jupyter Notebooks, Google Colab, and more.
 
 Just so you know, you may need to adjust the file paths and parameters in the code to fit your environment and dataset.
+
+## Contact Me
+For any questions or inquiries, please contact Alireza Farzipour at alirezafarzipor@gmail.com or via [LinkedIn](https://www.linkedin.com/in/afrzp).
 
 ## Citation
 If you find this work useful, please consider citing:
